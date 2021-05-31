@@ -1,15 +1,15 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Chai Shi"
+author = "Chai Shi"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Coding hobbyist"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
@@ -46,14 +46,14 @@ url = "https://de.linkedin.com/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/iknowright/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://instagram.com/changchaishi"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:changchaishi@example.com"
