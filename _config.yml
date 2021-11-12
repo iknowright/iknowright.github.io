@@ -102,4 +102,7 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:iknowright/iknowright.github.io
+  branch: gh-pages
+  message: update blog

@@ -1,0 +1,3 @@
+# CCS Blog
+
+My blog.
