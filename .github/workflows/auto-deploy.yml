@@ -24,7 +24,7 @@ jobs:
           ${{ runner.os }}-node-
     - name: Install Dependencies # step 3
       if: steps.cache.outputs.cache-hit != 'true'
-      run: npm install # install node modules dependencies
+      run: npm install --no-optional # install node modules dependencies
 
     # Deploy hexo blog website.
     - name: Deploy # step 4
